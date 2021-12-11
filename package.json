@@ -1,0 +1,23 @@
+{
+  "name": "startelectron",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMaxium69/StartElectron.git"
+  },
+  "author": "Maxime Tournier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMaxium69/StartElectron/issues"
+  },
+  "homepage": "https://github.com/TheMaxium69/StartElectron#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.61",
+    "electron": "^16.0.4"
+  }
+}
